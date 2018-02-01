@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+  <body>
+<table>
+<tr>
+<th>Period</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+</tr>
+<tr>
+<th>Class</th>
+<td>Physical Education</td>
+<td>Honors Science</td>
+<td>Computer Essentials</td>
+<td>Honors Social Studies</td>
+<td>Intermediate Orchestra</td>
+<td>Accelarated Math</td>
+<td>Honors English</td>
+</tr>
+<tr>
+<th>Teacher</th>
+<td><a href="http://www.mpsaz.org/rhodes/staff/" target="_blank">Ms.Randoll</a></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/jdruiz/" target="_blank">Ms.Ruiz</a></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/jwmurray/" target="_blank">Mr.Murray</a></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/saweltsch/" target="_blank">Mrs.Styles</a></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/mlbender/" target="_blank">Mrs.Bender</a></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/rljohnson/" target="_blank">Ms.Johnson</a></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/jmvalle" target="_blank">Ms.Valle</a></td>
+</tr>
+<tr>
+<th>Room</th>
+<td>Lockeroom/Gym</td>
+<td>51</td>
+<td>57</td>
+<td>89</td>
+<td>94</td>
+<td>83</td>
+<td>77</td>
+</tr>
+</table>
+<br />
+<table>
+<tr>
+<th>Period</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+</tr>
+<tr>
+<th>Class</th>
+<td>Honors Social Studies</td>
+<td>Intro to Art</td>
+<td>Honors Science</td>
+<td>Intermediate Orchestra</td>
+<td>Accelarated Math</td>
+<td>Honors English</td>
+<td>Web Creations</td>
+</tr>
+<tr>
+<th></th>
+<td><a href="http://www.mpsaz.org/rhodes/staff/saweltsch/" target="_blank">Mrs.Styles</a></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/nlgranese" target="_blank">Ms.Granese</a></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/jdruiz/" target="_blank">Ms.Ruiz</a></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/mlbender/" target="_blank">Mrs.Bender</a></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/rljohnson/" target="_blank">Ms.Johnson</a></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/jmvalle" target="_blank">Mrs.Valle</a></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/sejaggers/" target="_blank">Ms.Jaggers</a></td>
+</tr>
+<tr>
+<th>Room</th>
+<td>89</td>
+<td>31</td>
+<td>51</td>
+<td>94</td>
+<td>83</td>
+<td>77</td>
+<td>57</td>
+</tr>
+</table>
+
+
+  </body>
+</html>
